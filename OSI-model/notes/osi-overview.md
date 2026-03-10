@@ -19,4 +19,5 @@
 
 **Study notes**: 
 - Encapsulation = wrapping data like Russian dolls
+- Encapsulation = when pieces of information get added to data
 - Each layer only sees data from layer above/below
