@@ -16,4 +16,7 @@
 - "Layer where we interact with apps like web browsers"
 
 **THM notes**: 
+- we see this layer
+- email clients, web browsers, FileZilla
+- they provide a friendly Graphical User Interface (GUI)
 
