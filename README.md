@@ -1,6 +1,11 @@
 # net-plus-notes
 Study notes from Professor Messer's Net+ (N10-009) course and THM work. Building networking fundamentals on the path to Sec+
 
+## Modules
+- [OSI Model](./OSI-Model/README.md)
+- [Networking Essentials](./Networking-Essentials/README.md)
+- [Security Foundations](./Security-Foundations/README.md)
+
 ## What I'm Covering
 - OSI Model
 - TCP/IP & Protocols
